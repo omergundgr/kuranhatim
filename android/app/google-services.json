@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041927756418",
+    "project_id": "hatimflutter",
+    "storage_bucket": "hatimflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041927756418:android:918afcd5ed7952c836329b",
+        "android_client_info": {
+          "package_name": "com.bigfamily.kuranhatim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041927756418-diad7auf282a61nc9mgstl848hrkg43h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBjwOeFwrbHlGqpu-L6D6XVn-YfmqQHpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041927756418-diad7auf282a61nc9mgstl848hrkg43h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
